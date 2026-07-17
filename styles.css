@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(204, 248, 200);
+    margin: 0 auto;
+}
+
+h1 {
+    color: hsl(251, 90%, 62%);
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive, sans-serif, Arial;
+    background-color: azure;
+}
+
+ul {
+    width: 300px;
+    color: rgb(145, 1, 142);
+    background-color: azure;
+    font-size: 25px;
+    padding: 25px;
+    margin: 0 auto;
+    text-align: center;
+}
